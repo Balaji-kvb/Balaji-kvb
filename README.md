@@ -1,3 +1,7 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007CF0&height=200&section=header&text=Kadiri%20Venkata%20Balaji&fontSize=40&fontAlignY=35&animation=fadeIn&fontColor=ffffff"/>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Balaji-kvb&label=Profile%20views&color=0e75b6&style=flat"/>
+</p>
 <h1 align="center">Hi 👋, I'm Kadiri Venkata Balaji</h1>
 
 <p align="center">
@@ -56,7 +60,9 @@
 </p>
 
 ---
+## 💡 Random Dev Quote
 
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 # 📊 GitHub Stats
 
 <p align="center">
@@ -68,7 +74,9 @@
 </p>
 
 ---
+## 📅 Contribution Calendar
 
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Balaji-kvb&theme=tokyo-night)
 # 📈 Most Used Languages
 
 <p align="center">
@@ -76,19 +84,28 @@
 </p>
 
 ---
+## 🔷 3D Contribution Graph
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Balaji-kvb&theme=tokyonight"/>
 # 📊 Contribution Graph
 
 [![Balaji's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Balaji-kvb&theme=tokyo-night)](https://github.com/Balaji-kvb)
 
 ---
+## 📊 GitHub Profile Analytics
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Balaji-kvb&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Balaji-kvb&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Balaji-kvb&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Balaji-kvb&theme=tokyonight&utcOffset=8)
 # 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Balaji-kvb&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
+## 🎧 Coding Music
 
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/)
 # 🐍 Contribution Snake
 
 ![snake gif](https://github.com/Balaji-kvb/Balaji-kvb/blob/output/github-contribution-grid-snake.svg)
